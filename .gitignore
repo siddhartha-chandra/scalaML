@@ -1,5 +1,9 @@
+*.gitignore
 *.class
 *.log
+*.xml
+*.idea
+*.sc
 
 # sbt specific
 .cache
